@@ -7,11 +7,11 @@ export function Card () {
         <Container>
             <img src={Logo} alt='logo' />
             <span>
-                <img src={Perfil} alt='perfil' width={100} />
+                <img src={Perfil} alt='perfil' width={110} />
             </span>
             <p>
                 <button type='submit'>
-                    <a href='####'> Continue Como GOSTOSA</a>
+                    <a href='####'>Continue com @qualfoijapa_</a>
                 </button>
             </p>
             <p>

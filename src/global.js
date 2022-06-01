@@ -8,7 +8,13 @@ export default createGlobalStyle`
         box-sizing: border-box;
     }
     body{
-        height: 100vh;
-        border:solid red;
+        margin: 0 auto;
+        padding: 0 auto;
+        font-family: sans-serif;
+        font-size: 16px;
+        a{
+            text-decoration: none;
+            color:#0095f6;
+        }
     }
 `
